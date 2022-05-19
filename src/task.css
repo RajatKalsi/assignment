@@ -1,0 +1,42 @@
+.div{
+    height: 170px;
+    background-color: blue;
+    width: 200px;
+}
+
+.div1{
+    /* margin: 9px; */
+    /* padding: 8px; */
+    position: relative;
+    /* margin: 10px; */
+    padding: 10px;
+    
+    
+}
+.div2{
+    /* margin: 10px; */
+  
+    position: relative;
+    padding: 5px;
+    left: 5px;
+    
+    
+    
+}
+#btn{
+    margin: 4px;
+    position: relative;
+    left: 30px;
+    top: 9px;
+    
+}
+#btn2{
+    margin: 4px;
+    position: relative;
+    left: 35px;
+    top: 9px;
+}
+
+#open{
+    /* margin: 100px; */
+}
